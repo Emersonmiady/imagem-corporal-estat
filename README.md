@@ -1,4 +1,4 @@
-# Imagem corporal na adolescência: uma análise com Data Science
+# Imagem corporal na adolescência: uma análise com a Estatística
 ---
 Este projeto foi desenvolvido durante o **Bootcamp de Data Science Aplicada (Alura)**, no Módulo 3. Neste módulo vimos, de forma resumida, alguns conceitos estatísticos da Inferência Estatística, e como aplicá-los na prática codando!
 
