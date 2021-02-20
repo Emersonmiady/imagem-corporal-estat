@@ -1,6 +1,8 @@
 # Imagem corporal na adolescência: uma análise com a Estatística
 ---
-Este projeto foi desenvolvido durante o **Bootcamp de Data Science Aplicada (Alura)**, no Módulo 3. Neste módulo vimos, de forma resumida, alguns conceitos estatísticos da Inferência Estatística, e como aplicá-los na prática, com códigos! O desafio deste módulo foi analisar uma base de dados do IBGE, a **PenSE 2015**.
+Este projeto foi desenvolvido durante o **Bootcamp de Data Science Aplicada (Alura)**, no Módulo 3. Neste módulo vimos, de forma resumida, alguns conceitos estatísticos da Inferência Estatística, e como aplicá-los na prática, com códigos! O desafio deste módulo foi estabelecer algum escopo dentro da base de dados do IBGE, a **PenSE 2015**, e assim, fazer alguma análise de um assunto em específico.
+
+O tema em que me aprofundei foi a **imagem corporal no Brasil**.
 
 Observação: para melhorar a visualização de algumas imagens, por conta da resolução que foi comprometida, recomendo clicar em "Open in Colab", no começo do *notebook*.
 # Contexto
