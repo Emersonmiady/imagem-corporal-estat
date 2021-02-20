@@ -4,6 +4,8 @@ Este projeto foi desenvolvido durante o **Bootcamp de Data Science Aplicada (Alu
 
 O tema em que me aprofundei foi a **imagem corporal no Brasil**.
 
+- Análise completa em "**imagem_corporal.ipynb**".
+
 Observação: para melhorar a visualização de algumas imagens, por conta da resolução que foi comprometida, recomendo clicar em "Open in Colab", no começo do *notebook*.
 # Contexto
 ---
