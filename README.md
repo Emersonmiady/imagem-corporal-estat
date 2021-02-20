@@ -1,6 +1,6 @@
 # Imagem corporal na adolescência: uma análise com a Estatística
 ---
-Este projeto foi desenvolvido durante o **Bootcamp de Data Science Aplicada (Alura)**, no Módulo 3. Neste módulo vimos, de forma resumida, alguns conceitos estatísticos da Inferência Estatística, e como aplicá-los na prática codando!
+Este projeto foi desenvolvido durante o **Bootcamp de Data Science Aplicada (Alura)**, no Módulo 3. Neste módulo vimos, de forma resumida, alguns conceitos estatísticos da Inferência Estatística, e como aplicá-los na prática, com códigos! O desafio deste módulo foi analisar uma base de dados do IBGE, a **PenSE 2015**.
 
 Observação: para melhorar a visualização de algumas imagens, por conta da resolução que foi comprometida, recomendo clicar em "Open in Colab", no começo do *notebook*.
 # Contexto
@@ -12,8 +12,6 @@ Ter aquele "corpo perfeito" dos(as) nossos(as) amigos(as) ou influenciadores, pu
 Entender o que acontece na mente dos menores é muito importante, afinal, elas que tomarão conta do mundo no futuro, passando os conhecimentos para as próximas gerações.
 
 Sendo assim, neste projeto foi realizado uma **análise exploratória** a respeito da imagem corporal dos jovens e um pouco sobre o bullying na adolescência. Além de utilizar alguns testes com o **Qui-quadrado** para ver a relação que as variáveis tinham para os diferentes sexos.
-
-**Base de dados:** PenSE 2015 - IBGE.
 
 # Ferramentas utilizadas
 ---
